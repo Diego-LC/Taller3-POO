@@ -10,7 +10,7 @@
   - Asociación con Equipo de multiplicidad 0..1
 - Clase Equipo:
   - Composición con Atleta de multiplicidad 1..*
-  - Composición con Atleta de multiplicidad 1..*
+  - Composición con Atleta de multiplicidad 1
 - Clase Disiplina:
   - Asociación con Atleta de multiplicidad 1..*
   - Asociación con Evento de multiplicidad 1
@@ -18,3 +18,5 @@
   - Composición con Atleta de multiplicidad *
   - Asociación con Equipo de multiplicidad 1..*
   - Asociación con Atleta de multiplicidad 1..*
+- Clase JuegasPanamericanos:
+- Asociación con Evento de multiplicidad *
